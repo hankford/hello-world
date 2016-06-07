@@ -1,2 +1,2 @@
 # hello-world
-Initial
+Day one: empty, nothing, consciousness maybe
